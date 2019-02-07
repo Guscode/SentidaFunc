@@ -1,0 +1,2 @@
+# SentidaFunc
+Sentida
